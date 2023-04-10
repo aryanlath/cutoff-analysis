@@ -212,6 +212,7 @@
 <body>
     <header>
         <h1 class="title">{{ config('app.name') }}</h1>
+        <h4>Created by Abhist, Aditya, Anant, Aryan, Devansh and Subhash</h4>
         <div role="button" tabindex="1" class="hamburger" on="tap:sidebar-desktop.toggle"
             aria-label="Click to open sidebar">
             ≡
